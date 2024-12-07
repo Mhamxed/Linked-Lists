@@ -1,1 +1,1 @@
-# Linked-Lists
+Implementing a linked list using JS
